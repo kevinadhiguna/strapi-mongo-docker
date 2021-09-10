@@ -1,6 +1,8 @@
-# Strapi MongoDB - docker-compose
+# 🌈 Strapi MongoDB - docker-compose
 
-🌈 Strapi app with MongoDB powered by docker-compose
+Strapi app with MongoDB powered by docker-compose.
+
+<img src="https://s9.gifyu.com/images/mvp.png" alt="mvp.png" border="0" />
 
 ## Prerequisites :
 
