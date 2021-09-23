@@ -2,6 +2,7 @@ version: '3'
 services:
   strapi:
     image: strapi/strapi
+    container_name: strapi_mongodb
     environment:
       DATABASE_CLIENT: mongo
       DATABASE_NAME: ${DATABASE_NAME}
