@@ -4,9 +4,19 @@ Strapi app with MongoDB powered by docker-compose.
 
 <img src="https://s9.gifyu.com/images/mvp.png" alt="mvp.png" border="0" />
 
+<br />
+
+## ⚠️ Warning
+
+Currently, Strapi latest release is v4 which does not support MongoDB. Meanwhile, this project is meant for Strapi v3.6.8. 
+
+<br />
+
 ## Prerequisites :
 
 You should have [docker](https://docs.docker.com/engine/install/) and [docker-compose](https://docs.docker.com/compose/install/) installed on your computer.
+
+<br />
 
 ## How to Run :
 
